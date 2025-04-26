@@ -1,0 +1,14 @@
+setup.py
+cafe_adisyon.egg-info/PKG-INFO
+cafe_adisyon.egg-info/SOURCES.txt
+cafe_adisyon.egg-info/dependency_links.txt
+cafe_adisyon.egg-info/top_level.txt
+core/__init__.py
+core/database.py
+core/models.py
+modules/__init__.py
+modules/masa.py
+modules/musteri.py
+modules/rapor.py
+modules/siparis.py
+modules/urun.py
